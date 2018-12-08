@@ -5,7 +5,7 @@ public class EXERCICE7 {
 	
 		
 		int testgit= 1;
-		
+		int testgit2= 1;
 		// multiplie les 2 chiffres saisie au clavier et mettre le tout dans une boucle
 		// variable premiernombre, deuxiemenombre, premiernombre1,premiernombre
 		
