@@ -5,7 +5,7 @@ import java.util.Scanner;
 class EXERCICE6 {
 	public static void main(String[] args) {
 	 
-		
+		int gitTestBranch=1;
 		// scan une demande 
 		Scanner sc = new Scanner(System.in);
 		
