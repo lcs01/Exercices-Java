@@ -4,6 +4,8 @@ public class EXERCICE7 {
 	public static void main(String[] args) {
 	
 		
+		int testgit= 1;
+		
 		// multiplie les 2 chiffres saisie au clavier et mettre le tout dans une boucle
 		// variable premiernombre, deuxiemenombre, premiernombre1,premiernombre
 		
